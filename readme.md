@@ -3,8 +3,13 @@ This folder contains a jupyter notebook which goes through several modeling exer
 This notebook should run entirely with python packages accessible with pip or conda installation (i.e. no custom code). The full set of (non-built-in) packages, and the version this notebook was tested are as follows:
 
 pfsspy 1.1.2
+
 sunpy 4.0.5
+
 astropy 5.1
+
 matplotlib 3.5.2
+
 numpy 1.21.5
+
 astrospice 0.2.0
