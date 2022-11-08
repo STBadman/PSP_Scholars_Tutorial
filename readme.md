@@ -13,3 +13,5 @@ This notebook should run entirely with python packages accessible with pip or co
 `numpy` 1.21.5
 
 `astrospice` 0.2.0
+
+`streamtracer` 0.1
